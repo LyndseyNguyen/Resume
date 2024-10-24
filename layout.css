@@ -68,15 +68,12 @@ section {
 div.all-list {
     margin: 0.5rem 0 0.5rem 0;
 
-    .Skill-list {
-        display: flex;
-        flex-direction: row;
-    }
+
 
     .list-title {
         font-size: 1.2rem;
         font-weight: bold;
-        justify-content: left;
+
     }
     .list-title2 {
         font-size: 1.2rem;
@@ -137,7 +134,12 @@ p4 {
 }
 
 
+.all-list{
+    display: flex;
+    flex-direction: row;
 
+
+}
 
 
 
